@@ -1,0 +1,14 @@
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapOOP2\obj\Debug\net8.0\BaiTapOOP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapOOP2\obj\Debug\net8.0\BaiTapOOP2.AssemblyInfoInputs.cache
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapOOP2\obj\Debug\net8.0\BaiTapOOP2.AssemblyInfo.cs
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapOOP2\obj\Debug\net8.0\BaiTapOOP2.csproj.CoreCompileInputs.cache
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapOOP2\bin\Debug\net8.0\BaiTapOOP2.exe
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapOOP2\bin\Debug\net8.0\BaiTapOOP2.deps.json
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapOOP2\bin\Debug\net8.0\BaiTapOOP2.runtimeconfig.json
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapOOP2\bin\Debug\net8.0\BaiTapOOP2.dll
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapOOP2\bin\Debug\net8.0\BaiTapOOP2.pdb
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapOOP2\obj\Debug\net8.0\BaiTapOOP2.dll
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapOOP2\obj\Debug\net8.0\refint\BaiTapOOP2.dll
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapOOP2\obj\Debug\net8.0\BaiTapOOP2.pdb
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapOOP2\obj\Debug\net8.0\BaiTapOOP2.genruntimeconfig.cache
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapOOP2\obj\Debug\net8.0\ref\BaiTapOOP2.dll
