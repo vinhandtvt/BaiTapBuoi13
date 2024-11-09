@@ -1,6 +1,9 @@
 ﻿MenuQLSP menu = new MenuQLSP();
 
-
+if (menu.lstSanPham.Count != 0)
+{
+    SanPham.idSanPham = menu.lstSanPham.Last().MaSanPham + 1;
+}
 menu.HienThiMenuChucNang();
 
 
