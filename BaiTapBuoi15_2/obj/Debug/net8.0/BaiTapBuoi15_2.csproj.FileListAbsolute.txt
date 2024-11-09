@@ -1,0 +1,15 @@
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapBuoi15_2\bin\Debug\net8.0\BaiTapBuoi15_2.exe
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapBuoi15_2\bin\Debug\net8.0\BaiTapBuoi15_2.deps.json
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapBuoi15_2\bin\Debug\net8.0\BaiTapBuoi15_2.runtimeconfig.json
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapBuoi15_2\bin\Debug\net8.0\BaiTapBuoi15_2.dll
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapBuoi15_2\bin\Debug\net8.0\BaiTapBuoi15_2.pdb
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapBuoi15_2\obj\Debug\net8.0\BaiTapBuoi15_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapBuoi15_2\obj\Debug\net8.0\BaiTapBuoi15_2.AssemblyInfoInputs.cache
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapBuoi15_2\obj\Debug\net8.0\BaiTapBuoi15_2.AssemblyInfo.cs
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapBuoi15_2\obj\Debug\net8.0\BaiTapBuoi15_2.csproj.CoreCompileInputs.cache
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapBuoi15_2\obj\Debug\net8.0\BaiTapBuoi15_2.sourcelink.json
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapBuoi15_2\obj\Debug\net8.0\BaiTapBuoi15_2.dll
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapBuoi15_2\obj\Debug\net8.0\refint\BaiTapBuoi15_2.dll
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapBuoi15_2\obj\Debug\net8.0\BaiTapBuoi15_2.pdb
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapBuoi15_2\obj\Debug\net8.0\BaiTapBuoi15_2.genruntimeconfig.cache
+D:\dotnet01\csharp_basic\BaiTapBuoi13\BaiTapBuoi15_2\obj\Debug\net8.0\ref\BaiTapBuoi15_2.dll
